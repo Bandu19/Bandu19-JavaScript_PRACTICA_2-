@@ -1,4 +1,4 @@
-# Bandu19-JavaScript_PRACTICA_2-
+# Bandu19-JavaScript_PRACTICA_2
 # JavaScript
 
 FUNDAMENTOS DE JAVASCRIPT
